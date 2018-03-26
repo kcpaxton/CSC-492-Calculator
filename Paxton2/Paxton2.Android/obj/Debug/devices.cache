@@ -4,8 +4,4 @@
     <ResultingAbi>x86</ResultingAbi>
     <SdkVersion>25</SdkVersion>
   </Device>
-  <Device id="feaa81cd">
-    <ResultingAbi></ResultingAbi>
-    <SdkVersion>24</SdkVersion>
-  </Device>
 </Devices>
